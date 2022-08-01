@@ -1,0 +1,33 @@
+*{
+    font-family: 'Circular Std', sans-serif;
+    background-color: #FFFFFF;
+    margin: 0 0 0 0;
+}
+
+.titleContainer{
+    display: flex;
+    background-color: #F8F8FA;
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.karaokeTitle{
+    font-size: 70px;
+    color: #F93943;
+    background-color: transparent;
+}
+
+.subtitleContainer{
+    display: flex;
+    justify-content: center;
+    background-color: #F93943;
+    padding-top: 20px;
+    height: 50px;
+}
+
+.chooseMusicSubtitle{
+    color: #F8F8FA;
+    background-color: transparent;
+}
